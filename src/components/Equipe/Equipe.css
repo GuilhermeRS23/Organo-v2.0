@@ -1,0 +1,31 @@
+.equipe {
+  text-align: center;
+  padding: 34px;
+  border-top: solid 2.5px;
+  border-right: solid 5px;
+  border-top-right-radius: 10px;
+  margin: 0px 15px;
+}
+
+.equipe h3 {
+  font-size: 32px;
+  border-bottom: 3px solid;
+  display: inline-block;
+  padding-bottom: 2.5px;
+}
+
+.equipe .membros {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+
+/* IMPLEMENTAÇÃO FUTURA (TALVEZ) */
+/* .equipe{
+  background-image: url(https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/dc9be4dc-caac-45fb-a4e1-41cb0b3f840c.jpeg);
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  opacity: 0.45;
+} */
